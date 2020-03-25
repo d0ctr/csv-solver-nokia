@@ -1,0 +1,4 @@
+,A,B,Cell
+1,1,=A2*Cell2,=B1-Cell2
+2,=Cell2-A1,=Cell2*Cell30,10
+30,=B2+A2,=Cell1/A2,=B30-Cell2
