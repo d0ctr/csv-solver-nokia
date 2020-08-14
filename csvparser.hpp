@@ -7,7 +7,7 @@
 #include <map>
 #include <cstdlib>
 #include <exception>
-
+//Сережа сосет
 class CSVParser
 {
   public:
